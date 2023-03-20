@@ -7,7 +7,7 @@
 /**
  * main - main function
  *
- * return: mostly 0
+ * Return: mostly 0
  */
 int main(void)
 {
